@@ -1,0 +1,15 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:fr.zhortech.ztwarmkit////PointingToDeclaration/ztwarmkit/fr.zhortech.ztwarmkit/index.html
+$dokka.location:fr.zhortech.ztwarmkit/ZTWarm///PointingToDeclaration/ztwarmkit/fr.zhortech.ztwarmkit/-z-t-warm/index.html
+$dokka.location:fr.zhortech.ztwarmkit/ZTWarm/getRemainingTimer/#/PointingToDeclaration/ztwarmkit/fr.zhortech.ztwarmkit/-z-t-warm/get-remaining-timer.html
+$dokka.location:fr.zhortech.ztwarmkit/ZTWarm/getTargetTemperature/#/PointingToDeclaration/ztwarmkit/fr.zhortech.ztwarmkit/-z-t-warm/get-target-temperature.html
+$dokka.location:fr.zhortech.ztwarmkit/ZTWarm/onIndicateData/#kotlin.ByteArray/PointingToDeclaration/ztwarmkit/fr.zhortech.ztwarmkit/-z-t-warm/on-indicate-data.html
+$dokka.location:fr.zhortech.ztwarmkit/ZTWarm/onNotifyData/#kotlin.ByteArray/PointingToDeclaration/ztwarmkit/fr.zhortech.ztwarmkit/-z-t-warm/on-notify-data.html
+$dokka.location:fr.zhortech.ztwarmkit/ZTWarm/startHeating/#kotlin.Float/PointingToDeclaration/ztwarmkit/fr.zhortech.ztwarmkit/-z-t-warm/start-heating.html
+$dokka.location:fr.zhortech.ztwarmkit/ZTWarm/startTimer/#kotlin.Int/PointingToDeclaration/ztwarmkit/fr.zhortech.ztwarmkit/-z-t-warm/start-timer.html
+$dokka.location:fr.zhortech.ztwarmkit/ZTWarm/stopHeating/#/PointingToDeclaration/ztwarmkit/fr.zhortech.ztwarmkit/-z-t-warm/stop-heating.html
+$dokka.location:fr.zhortech.ztwarmkit/ZTWarm/stopTimer/#/PointingToDeclaration/ztwarmkit/fr.zhortech.ztwarmkit/-z-t-warm/stop-timer.html
+$dokka.location:fr.zhortech.ztwarmkit/ZTWarm/temperatureSbj/#/PointingToDeclaration/ztwarmkit/fr.zhortech.ztwarmkit/-z-t-warm/temperature-sbj.html
+fr.zhortech.ztwarmkit
+
