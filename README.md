@@ -6,6 +6,7 @@ Please read core kit SDK setup part first. [ZTCoreKit](https://github.com/zhorte
 If you use Gradle to build your project — as a Gradle project implementation dependency:
 ```groovy
 def zhortechSdkVersion = '1.0.52'
+implementation "fr.zhortech.android:ztcorekit:$zhortechSdkVersion-prod"
 implementation "fr.zhortech.android:ztwarmkit:$zhortechSdkVersion-prod"
 ```
 
